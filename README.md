@@ -3,8 +3,8 @@
 A compact, inexpensive monitor that uses a repurposed bathroom scale, HX711 amplifier, and ESP32 to measure salt in a water softener’s brine tank and provide alerts when salt levels are low.
 
 ##  Architecture Overview
-![Basic Setup](Images\SaltScale_Basic_Diagram.JPG)
-![Architecture Diagram](Images\SaltScale_System_Diagram.JPG)
+![Basic Setup](Images/SaltScale_Basic_Diagram.JPG)
+![Architecture Diagram](Images/SaltScale_System_Diagram.JPG)
 
 ##  System Components & Responsibilities
 
